@@ -1,0 +1,15 @@
+{
+  "version": "3.0.0",
+  "channel": "prod",
+  "engine": {
+    "url": "https://example.com/nextcode/opencode-cli-3.0.0.exe",
+    "sha256": "REPLACE_WITH_SHA256_OF_THE_EXE",
+    "size": 264423936
+  },
+  "metadata": {
+    "package": "@opencode/cli"
+  },
+  "app": null,
+  "notes": "Initial manifest. Replace the URL and hash before hosting.",
+  "published_at": "2026-11-25T00:00:00Z"
+}
